@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Follow me on twitter [@PatrickJS__](https://twitter.com/PatrickJS__)
 <!--
 **PatrickJS/PatrickJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
