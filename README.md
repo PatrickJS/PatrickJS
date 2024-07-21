@@ -2,7 +2,7 @@
 
 Follow me on twitter [@PatrickJS__](https://twitter.com/PatrickJS__)
 
-I'm working at [kunai](https://gitihub.com/kunai-consulting) on qwik.js and ai projects in FinTech. I'm also a Core Team member of [qwik](https://gitihub.com/QwikDev) 
+I'm working at [kunai](https://github.com/kunai-consulting) on qwik.js and ai projects in FinTech. I'm also a Core Team member of [qwik](https://gitihub.com/QwikDev) 
 <!--
 **PatrickJS/PatrickJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
