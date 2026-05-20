@@ -13,7 +13,7 @@ Some of the work I am known for:
 - [Qwik](https://github.com/QwikDev/qwik) - instant-loading web apps with resumability
 - [Angular Universal](https://github.com/angular/universal) - server-side rendering and prerendering for Angular
 - [Falcor](https://github.com/Netflix/falcor) - efficient data fetching from Netflix
-- [PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - micro frontend starter patterns
+- [angular-webpack-starter](https://github.com/PatrickJS/angular-webpack-starter) - legacy Angular Webpack Starter, now outdated but historically widely used
 - [awesome-angular](https://github.com/PatrickJS/awesome-angular) - Angular resources and ecosystem references
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Cursor rules and AI editor workflow examples
 
